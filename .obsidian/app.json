@@ -1,9 +1,13 @@
 {
-  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "readableLineLength": false,
-  "showLineNumber": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true
 }
