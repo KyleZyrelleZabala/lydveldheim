@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"d7c15cb4a91f13fb","type":"file","file":"📅/2025/1Q/01 January/05/2025-01-28/2025-01-28.md","x":-220,"y":-360,"width":400,"height":440},
+		{"id":"bd1e0ec7e49bc10d","type":"text","text":"# [[1735012575031|Nikita]]\n\n- A2A\n- all sales of first sequence with Bitrix ID, marketing project\n- lead report thursday","x":720,"y":-150,"width":420,"height":230},
+		{"id":"feab8d6b27904dc5","type":"file","file":"📁/⚖️/💼/⚪/1734687206691/1734687206691.md","x":-1960,"y":-420,"width":1680,"height":1300},
+		{"id":"f6d98b2d0c2cdbae","type":"text","text":"# [[1734683795608|Mahmoud]]\n\n- PVC Report\n- Training HR Data","x":1200,"y":-150,"width":420,"height":230},
+		{"id":"7f65eb63951eed24","type":"text","text":"# [[1734625449574|Kyle]]\n\n- create link for automating generation with one click per HOS/TL in [[1737453181109|Performance 2024 Discussion]]\n- assist Irfan with desirables\n- continue certification","x":1680,"y":-150,"width":420,"height":230},
+		{"id":"1760e8d817894515","type":"text","text":"# [[1735011576700|Rifga]]\n\n- Dax % for report\n- Hugo MOU\n- Google sheet for everything\n- separate amount of sales in non-freehold areas\n- ask him to do column additional in quanta\n- great job for performance","x":240,"y":-230,"width":420,"height":310},
+		{"id":"de0284c2b5dbf5ed","type":"file","file":"📁/💻/🖼️/🎨/1738055618219/1738058940300/1738058940300.md","x":-680,"y":-1640,"width":400,"height":400},
+		{"id":"fcee198b757037b1","type":"file","file":"📁/💻/🖼️/🎨/1738055618219/1738057861285/1738057861285.md","x":-220,"y":-1640,"width":400,"height":400},
+		{"id":"b3a6c39cba4f28ea","type":"file","file":"📁/💻/🖼️/🎨/1738055618219/1738058447589/1738058447589.md","x":240,"y":-1640,"width":400,"height":400},
+		{"id":"abcc84142ae36f53","type":"file","file":"📁/💻/🖼️/🎨/1738055618219/1738055618219.md","x":-360,"y":-1120,"width":680,"height":600},
+		{"id":"61129b143de03ed8","type":"file","file":"📁/💻/⚙️/💟/💟.md","x":-220,"y":160,"width":460,"height":400},
+		{"id":"2edc40bd685fdcaa","type":"file","file":"📁/🧠/🏁/1737876697308/1737876697308.md","x":-220,"y":660,"width":620,"height":400},
+		{"id":"fe9050b9abed37ed","type":"file","file":"📁/💻/1738061143370.md","x":560,"y":660,"width":400,"height":400},
+		{"id":"1193daa1f55da965","type":"file","file":"📁/💻/1738061898998.md","x":560,"y":1160,"width":400,"height":400},
+		{"id":"dd7a9364b8f0a4c8","type":"file","file":"📁/💻/🖼️/🔊/1738059477435.md","x":400,"y":-1020,"width":400,"height":400},
+		{"id":"6b0918ddd3785abb","type":"file","file":"📁/💻/🖼️/🔊/1738062111587.md","x":880,"y":-1020,"width":400,"height":400},
+		{"id":"714c6c67d98305bf","type":"file","file":"📁/🧠/🎓/1731657856731/1736829084163/1738065617400.md","x":-1720,"y":950,"width":680,"height":1250},
+		{"id":"98bb0aa2b1409c65","type":"file","file":"📁/💻/🌐/1735900974392.md","x":-1320,"y":-920,"width":400,"height":400},
+		{"id":"7a165bcaf0a33324","type":"file","file":"📁/🧠/🎓/1731657856731/1736829084163/1736829084163.md","x":-960,"y":1090,"width":680,"height":970}
+	],
+	"edges":[
+		{"id":"b3021e4b8197518c","fromNode":"feab8d6b27904dc5","fromSide":"top","toNode":"98bb0aa2b1409c65","toSide":"bottom"},
+		{"id":"9708621c4d353caf","fromNode":"d7c15cb4a91f13fb","fromSide":"top","toNode":"abcc84142ae36f53","toSide":"bottom"},
+		{"id":"fe6de430c7d6c284","fromNode":"abcc84142ae36f53","fromSide":"top","toNode":"fcee198b757037b1","toSide":"bottom"},
+		{"id":"2e37f8f7c880727e","fromNode":"abcc84142ae36f53","fromSide":"top","toNode":"b3a6c39cba4f28ea","toSide":"bottom"},
+		{"id":"83a19921572975ef","fromNode":"abcc84142ae36f53","fromSide":"top","toNode":"de0284c2b5dbf5ed","toSide":"bottom"},
+		{"id":"cd36d996fa25f8dc","fromNode":"2edc40bd685fdcaa","fromSide":"right","toNode":"fe9050b9abed37ed","toSide":"left"},
+		{"id":"a62b4f5bc749b22d","fromNode":"2edc40bd685fdcaa","fromSide":"right","toNode":"1193daa1f55da965","toSide":"left"},
+		{"id":"dc73216d55f7707e","fromNode":"abcc84142ae36f53","fromSide":"right","toNode":"dd7a9364b8f0a4c8","toSide":"left"},
+		{"id":"5e1b65b0477c095e","fromNode":"dd7a9364b8f0a4c8","fromSide":"right","toNode":"6b0918ddd3785abb","toSide":"left"},
+		{"id":"686bfa615d421ee6","fromNode":"7a165bcaf0a33324","fromSide":"left","toNode":"714c6c67d98305bf","toSide":"right"}
+	]
+}

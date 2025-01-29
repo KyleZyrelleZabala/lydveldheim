@@ -1,0 +1,19 @@
+{
+  "show-checkboxes": true,
+  "new-card-insertion-method": "prepend-compact",
+  "hide-card-count": true,
+  "full-list-lane-width": true,
+  "move-tags": false,
+  "link-date-to-daily-note": true,
+  "tag-sort": [
+    {
+      "tag": "#done"
+    },
+    {
+      "tag": "#active"
+    },
+    {
+      "tag": "#urgent"
+    }
+  ]
+}

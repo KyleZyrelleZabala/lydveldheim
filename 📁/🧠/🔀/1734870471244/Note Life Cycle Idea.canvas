@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"738a174606c1fbeb","type":"text","text":"# Permanent Notes","x":-200,"y":-124,"width":400,"height":249},
+		{"id":"ee869fc92ad2dbe9","type":"text","text":"# Reference","x":-200,"y":249,"width":400,"height":249},
+		{"id":"9b96e247053c07e1","type":"text","text":"# Content Maps\n- many folders","x":-200,"y":-498,"width":400,"height":249},
+		{"id":"ea9d9575d61bb95e","type":"text","text":"# Project Notes\n- many folders","x":400,"y":-124,"width":400,"height":249},
+		{"id":"20ce8fb35c8b91c7","type":"text","text":"> [!r] Don't use folders to structure ideas\n\n> [!a] Use Content Maps\n","x":400,"y":249,"width":400,"height":249},
+		{"id":"5b600b6a30efdd3f","type":"text","text":"# Fleeting Notes\n- single folder\n## Daily Note","x":-800,"y":-498,"width":400,"height":249},
+		{"id":"41dbb598e1a8acf2","type":"text","text":"# Literature Notes\n- many folders","x":-800,"y":249,"width":400,"height":249}
+	],
+	"edges":[
+		{"id":"495b48c78dda0a55","fromNode":"738a174606c1fbeb","fromSide":"bottom","toNode":"ee869fc92ad2dbe9","toSide":"top","label":"links"},
+		{"id":"ea587dce7fe2a73d","fromNode":"738a174606c1fbeb","fromSide":"right","toNode":"ea9d9575d61bb95e","toSide":"left"},
+		{"id":"cb542c3b95342ed6","fromNode":"9b96e247053c07e1","fromSide":"bottom","toNode":"738a174606c1fbeb","toSide":"top","label":"links"},
+		{"id":"d47cc6aca48d3831","fromNode":"20ce8fb35c8b91c7","fromSide":"left","toNode":"ee869fc92ad2dbe9","toSide":"right"},
+		{"id":"3cbea172cce75f47","fromNode":"41dbb598e1a8acf2","fromSide":"right","toNode":"ee869fc92ad2dbe9","toSide":"left"},
+		{"id":"caab0058e81ac2ac","fromNode":"ea9d9575d61bb95e","fromSide":"top","toNode":"9b96e247053c07e1","toSide":"right"},
+		{"id":"002150c24cedbed2","fromNode":"5b600b6a30efdd3f","fromSide":"right","toNode":"9b96e247053c07e1","toSide":"left"},
+		{"id":"dfdaa8b078da25b3","fromNode":"ea9d9575d61bb95e","fromSide":"bottom","toNode":"20ce8fb35c8b91c7","toSide":"top"}
+	]
+}

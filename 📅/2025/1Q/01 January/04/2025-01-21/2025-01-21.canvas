@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"4f2211ac5698c72d","type":"file","file":"📁/💻/⚙️/🔐/💱/1735883127553.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"5c598fd68d4c8bb8","type":"file","file":"📁/💻/1737418721004.md","x":460,"y":0,"width":400,"height":400},
+		{"id":"3220ffb6ce48a4ab","type":"text","text":"download GCash transactions from #2024/01/01 to #2025/01/20","x":40,"y":-120,"width":320,"height":59},
+		{"id":"8f5cac26530621c7","type":"text","text":"compute GCash earnings","x":500,"y":460,"width":320,"height":59},
+		{"id":"4f54be0817cab7b2","type":"file","file":"📁/💻/💻.md","x":1400,"y":-200,"width":680,"height":800},
+		{"id":"1114caaca9b4f8d7","type":"text","text":"add 👤 property for all software notes","x":1400,"y":660,"width":680,"height":60},
+		{"id":"ab0d778c76e55925","type":"file","file":"📁/⚖️/🆔/💟/1737419481170.md","x":1470,"y":-660,"width":540,"height":400},
+		{"id":"f98c5b8611ea0905","type":"text","text":"several software notes have no 👤 property","x":920,"y":153,"width":400,"height":95},
+		{"id":"d360f8f62a98d85c","type":"file","file":"📁/💻/🎲/1735907538631.md","x":1540,"y":800,"width":400,"height":400},
+		{"id":"446a95c780e7fbf8","type":"text","text":"find Sandstone Golem","x":2020,"y":970,"width":250,"height":60},
+		{"id":"f4bec98685cecb40","type":"text","text":"complete Sanctum","x":2020,"y":840,"width":250,"height":60},
+		{"id":"258fe612ea148296","type":"file","file":"📁/🧠/🏁/🏷️/📁/⚖️/💱.md","x":270,"y":-1130,"width":780,"height":870},
+		{"id":"649c97a678604519","type":"file","file":"📁/⚖️/💼/⚪/⚪.md","x":2160,"y":0,"width":400,"height":400},
+		{"id":"2b28d823ac561935","x":2640,"y":1,"width":460,"height":399,"type":"file","file":"📁/⚖️/💼/🟦/1734515723483/1737451125172/1737451125172.md"}
+	],
+	"edges":[
+		{"id":"8c5a1ead34b42558","fromNode":"4f2211ac5698c72d","fromSide":"right","toNode":"5c598fd68d4c8bb8","toSide":"left"},
+		{"id":"394b8ba577824731","fromNode":"4f54be0817cab7b2","fromSide":"bottom","toNode":"1114caaca9b4f8d7","toSide":"top"},
+		{"id":"367defa28a761d0b","fromNode":"4f54be0817cab7b2","fromSide":"top","toNode":"ab0d778c76e55925","toSide":"bottom"},
+		{"id":"56d32e5137e594b1","fromNode":"3220ffb6ce48a4ab","fromSide":"bottom","toNode":"4f2211ac5698c72d","toSide":"top"},
+		{"id":"634bbd9635db6b62","fromNode":"5c598fd68d4c8bb8","fromSide":"bottom","toNode":"8f5cac26530621c7","toSide":"top"},
+		{"id":"f1ec7b9e4018693f","fromNode":"5c598fd68d4c8bb8","fromSide":"right","toNode":"f98c5b8611ea0905","toSide":"left"},
+		{"id":"39cbcc935e909f3c","fromNode":"f98c5b8611ea0905","fromSide":"right","toNode":"4f54be0817cab7b2","toSide":"left"},
+		{"id":"63cbbfadf7e61ef7","fromNode":"f98c5b8611ea0905","fromSide":"bottom","toNode":"1114caaca9b4f8d7","toSide":"left"},
+		{"id":"57d9493154c1136a","fromNode":"d360f8f62a98d85c","fromSide":"right","toNode":"446a95c780e7fbf8","toSide":"left"},
+		{"id":"b54fbd8711d895c4","fromNode":"d360f8f62a98d85c","fromSide":"right","toNode":"f4bec98685cecb40","toSide":"left"},
+		{"id":"3dc9f1d2289b9efd","fromNode":"f4bec98685cecb40","fromSide":"bottom","toNode":"446a95c780e7fbf8","toSide":"top"},
+		{"id":"1ac5d3959a832696","fromNode":"5c598fd68d4c8bb8","fromSide":"top","toNode":"258fe612ea148296","toSide":"bottom"},
+		{"id":"5065b2bf1be3c073","fromNode":"4f54be0817cab7b2","fromSide":"right","toNode":"649c97a678604519","toSide":"left"}
+	]
+}

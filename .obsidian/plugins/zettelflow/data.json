@@ -1,0 +1,9 @@
+{
+  "loggerEnabled": false,
+  "uniquePrefixEnabled": true,
+  "uniquePrefix": "x",
+  "foldersFlowsPath": "_ZettelFlow",
+  "ribbonCanvas": "Zettel/Zettel.canvas",
+  "editorCanvas": "Flow.canvas",
+  "jsLibraryFolderPath": "Zettel"
+}

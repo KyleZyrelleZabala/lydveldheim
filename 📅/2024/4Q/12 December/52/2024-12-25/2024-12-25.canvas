@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b2379f55639bbd1e","type":"file","file":"📁/💻/⚙️/🔐/1735171395681.md","x":-600,"y":-490,"width":540,"height":600},
+		{"id":"b17c44860b790547","type":"text","text":"- Login to PBI as different TL\n- extract page as PDF\n- take screenshots","x":40,"y":-240,"width":380,"height":100},
+		{"id":"434262e02a970597","type":"text","text":"- Login to PBI to view Management Dashboard\n- filter according to TL/HOS\n- extract page as PDF\n- take screenshots","x":40,"y":-82,"width":380,"height":122},
+		{"id":"dc4c4ba6b7283c4c","type":"text","text":"- Combine screenshots side-by-side","x":500,"y":-140,"width":340,"height":58}
+	],
+	"edges":[
+		{"id":"c90afaec9acf789b","fromNode":"b2379f55639bbd1e","fromSide":"right","toNode":"b17c44860b790547","toSide":"left"},
+		{"id":"17a831b1f7397f10","fromNode":"b17c44860b790547","fromSide":"right","toNode":"dc4c4ba6b7283c4c","toSide":"left"},
+		{"id":"6eac5038ba73c476","fromNode":"434262e02a970597","fromSide":"right","toNode":"dc4c4ba6b7283c4c","toSide":"left"}
+	]
+}

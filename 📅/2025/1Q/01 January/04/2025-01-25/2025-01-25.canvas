@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"569eded6a1159a22","x":0,"y":0,"width":400,"height":400,"type":"file","file":"📅/2025/1Q/01 January/04/2025-01-25/2025-01-25.md"},
+		{"id":"e905c0c32a226da7","x":480,"y":0,"width":460,"height":400,"type":"file","file":"📁/🧠/🏁/1734875902572.md"}
+	],
+	"edges":[
+		{"id":"75c060ccee7093de","fromNode":"569eded6a1159a22","fromSide":"right","toNode":"e905c0c32a226da7","toSide":"left"}
+	]
+}

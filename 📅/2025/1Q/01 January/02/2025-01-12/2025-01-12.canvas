@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6f3507fcb4b56e19","x":-125,"y":-30,"width":465,"height":270,"type":"text","text":"- Birthday Lola Tessie\n- Pulilan\n\t- Settle\n\t- Setup\n- ID\n\t- Passport\n- Design House Plan by Tiktoker\n- MAVIS Plan\n\t- API Plan\n\t- Target Automation Plan"},
+		{"id":"b08e0ed5c58cdd68","x":420,"y":-202,"width":400,"height":615,"type":"file","file":"📁/⚖️/🆔/🔤/👤/1736602490626/1736602490626.md"}
+	],
+	"edges":[
+		{"id":"608225ba74fb0c49","fromNode":"6f3507fcb4b56e19","fromSide":"right","toNode":"b08e0ed5c58cdd68","toSide":"left"}
+	]
+}

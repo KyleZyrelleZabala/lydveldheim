@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"411a9dd0cf08810e","type":"group","x":-667,"y":-227,"width":1335,"height":920,"label":"Electroweak Symmetry"},
+		{"id":"4a364b125f721d95","type":"text","text":"# $H_{0}$","x":-54,"y":195,"width":102,"height":89},
+		{"id":"01dc0c87b00f7d2a","type":"text","text":"## $e_{R}$, $\\mu_{R}$, $u_{R}$, $d_{R}$,","x":-181,"y":565,"width":358,"height":102},
+		{"id":"574895a247609159","type":"text","text":"## $L^e_L = \\left(\\frac{v^e_{L}}{e_{L}}\\right)$, $L^{\\mu}_L = \\left(\\frac{v^{\\mu}_{L}}{{\\mu}_{L}}\\right)$, $Q_{L}=\\left(\\frac{u}{d}\\right)$","x":-309,"y":-201,"width":613,"height":89},
+		{"id":"aa7a8f688579005f","type":"text","text":"# $U(1)$\n- ## $B_{M}$","x":457,"y":163,"width":185,"height":153},
+		{"id":"7d2216bcf8f68ce1","type":"text","text":"# $SU(2)$\n- ## $W^1_M$\n- ## $W^2_M$\n- ## $W^3_M$","x":-641,"y":112,"width":185,"height":256}
+	],
+	"edges":[
+		{"id":"bdc12fc65831222e","fromNode":"4a364b125f721d95","fromSide":"top","toNode":"574895a247609159","toSide":"bottom","label":"inertial mass"},
+		{"id":"2c9e820412e0d656","fromNode":"4a364b125f721d95","fromSide":"bottom","toNode":"01dc0c87b00f7d2a","toSide":"top","label":"inertial mass"},
+		{"id":"7f09fc34fa46b834","fromNode":"7d2216bcf8f68ce1","fromSide":"right","toNode":"4a364b125f721d95","toSide":"left","label":"weak isospin"},
+		{"id":"c35ba50f2a8aee9e","fromNode":"aa7a8f688579005f","fromSide":"left","toNode":"4a364b125f721d95","toSide":"right","label":"hypercharge"},
+		{"id":"69445d5a6884524a","fromNode":"7d2216bcf8f68ce1","fromSide":"bottom","toNode":"01dc0c87b00f7d2a","toSide":"left","label":"weak isospin"},
+		{"id":"859f5a6efac862b7","fromNode":"aa7a8f688579005f","fromSide":"bottom","toNode":"01dc0c87b00f7d2a","toSide":"right","label":"hypercharge"},
+		{"id":"6918ee3fc392313a","fromNode":"aa7a8f688579005f","fromSide":"top","toNode":"574895a247609159","toSide":"right","label":"hypercharge"},
+		{"id":"48a1326a9ddee6f6","fromNode":"7d2216bcf8f68ce1","fromSide":"top","toNode":"574895a247609159","toSide":"left","label":"weak isospin"}
+	]
+}

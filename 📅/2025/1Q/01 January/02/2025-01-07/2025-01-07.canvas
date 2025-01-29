@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"eabb3560af589f62","type":"file","file":"📅/2025/1Q/01 January/02/2025-01-07/2025-01-07.md","x":362,"y":207,"width":418,"height":493},
+		{"id":"38338fa436d194de","type":"text","text":"# sales\n\nid\ncustom_date\nmaster_development\nsub_loc_1\nsub_loc_2\nsub_loc_3\nsub_loc_4\ntotal_sales_price_val\nsales_price_sqft_unit\nsales_price_sqm_unit\nunit_size_sqft\nunit_size_sqm\nunit_type\nno_beds\nplot_size_sqft\nplot_size_sqm\ndev_name\nsale_sequence\n# rent\n\nid\nstart_date\nloc\nsub_loc_1\nsub_loc_2\nsub_loc_3\nsub_loc_4\nannualised_rental_price\ncontract_rental_price\nrent_price_sqft_unit\nplot_size_sqm\nunit_size\nunit_size_sqm\nunit_type\nbeds\nplot_size\nplot_size_sqm_16\ndev_name\nrent_sequence","x":860,"y":-26,"width":250,"height":960}
+	],
+	"edges":[
+		{"id":"b9b935b79b9998f1","fromNode":"eabb3560af589f62","fromSide":"right","toNode":"38338fa436d194de","toSide":"left"}
+	]
+}

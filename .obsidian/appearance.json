@@ -1,0 +1,12 @@
+{
+  "accentColor": "#3ac6ef",
+  "interfaceFontFamily": "Aptos Display",
+  "monospaceFontFamily": "Inconsolata",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "zybala-custom-callout",
+    "zybala-custom-header",
+    "zybala-custom-mermaid-label",
+    "zybala-custom-table"
+  ]
+}

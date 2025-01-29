@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"db3b578b01e5dd22","type":"group","x":140,"y":-270,"width":280,"height":540,"label":"Expansion"},
+		{"id":"4af911bba0b0ec22","type":"group","x":580,"y":-270,"width":260,"height":540,"label":"Apeironeiric"},
+		{"id":"2b3548e87f7f6171","type":"group","x":-180,"y":-270,"width":240,"height":480,"label":"Cooling"},
+		{"id":"99dad01472a8a218","type":"group","x":-520,"y":-130,"width":260,"height":340,"label":"Asymmetry"},
+		{"id":"bdb52f000653ddf6","type":"group","x":-840,"y":-50,"width":240,"height":100,"label":"Unification"},
+		{"id":"cb5fa45f8a66d765","type":"text","text":"### Electroweak","x":-170,"y":-30,"width":220,"height":70,"color":"3"},
+		{"id":"f716c2cff259c62e","type":"text","text":"### Quintessence","x":-500,"y":-100,"width":220,"height":70,"color":"4"},
+		{"id":"d9c7c6906c47b8f2","type":"text","text":"### Electromagnetic","x":160,"y":-100,"width":240,"height":70,"color":"#0affff"},
+		{"id":"ed7023011150b412","type":"text","text":"### Strong","x":-170,"y":-240,"width":570,"height":70,"color":"#0000c8"},
+		{"id":"16c793247c28eb17","type":"text","text":"### Graviweak","x":-500,"y":110,"width":550,"height":70,"color":"6"},
+		{"id":"c3277447c8753777","type":"text","text":"### Grand","x":-830,"y":-30,"width":220,"height":70,"color":"#ffffff"},
+		{"id":"e8ca0953938b8f35","type":"text","text":"### Weak","x":160,"y":40,"width":240,"height":70,"color":"1"},
+		{"id":"e2250fcbe43fd326","type":"text","text":"### Gravity","x":160,"y":180,"width":240,"height":70,"color":"#c800c8"},
+		{"id":"180673a243a8c7ac","type":"text","text":"### Spectral","x":600,"y":-240,"width":220,"height":70,"color":"#ff96ff"},
+		{"id":"c1aeaf58645df848","type":"text","text":"### Vectorque","x":600,"y":-100,"width":220,"height":70,"color":"2"},
+		{"id":"15c94a8aebc3b6e4","type":"text","text":"### Polarigami","x":600,"y":40,"width":220,"height":70,"color":"#00c800"},
+		{"id":"5863796f613a1781","type":"text","text":"### Ambient","x":600,"y":180,"width":220,"height":70,"color":"#c8ff64"}
+	],
+	"edges":[
+		{"id":"7555a0cbe63a2ac3","fromNode":"cb5fa45f8a66d765","fromSide":"right","toNode":"e8ca0953938b8f35","toSide":"left","color":"3"},
+		{"id":"df9acddce99c320c","fromNode":"cb5fa45f8a66d765","fromSide":"right","toNode":"d9c7c6906c47b8f2","toSide":"left","color":"3"},
+		{"id":"fdd813b5df080dde","fromNode":"f716c2cff259c62e","fromSide":"right","toNode":"cb5fa45f8a66d765","toSide":"left","color":"4"},
+		{"id":"c9a0b0d1b0f2a619","fromNode":"f716c2cff259c62e","fromSide":"right","toNode":"ed7023011150b412","toSide":"left","color":"4"},
+		{"id":"90cab0f69806af0e","fromNode":"c3277447c8753777","fromSide":"right","toNode":"f716c2cff259c62e","toSide":"left","color":"#ffffff"},
+		{"id":"57db0e31defa9e4c","fromNode":"d9c7c6906c47b8f2","fromSide":"right","toNode":"c1aeaf58645df848","toSide":"left","color":"#0affff"},
+		{"id":"50e5250e3f15e43f","fromNode":"d9c7c6906c47b8f2","fromSide":"right","toNode":"15c94a8aebc3b6e4","toSide":"left","color":"#0affff"},
+		{"id":"7f8118fe8b99f87b","fromNode":"ed7023011150b412","fromSide":"right","toNode":"180673a243a8c7ac","toSide":"left","color":"#0000c8"},
+		{"id":"2e1e05c9fe7298b9","fromNode":"16c793247c28eb17","fromSide":"right","toNode":"e8ca0953938b8f35","toSide":"left","color":"6"},
+		{"id":"8bdaa0053095488a","fromNode":"16c793247c28eb17","fromSide":"right","toNode":"e2250fcbe43fd326","toSide":"left","color":"6"},
+		{"id":"022ad8effbcd4ac9","fromNode":"c3277447c8753777","fromSide":"right","toNode":"16c793247c28eb17","toSide":"left","color":"#ffffff"},
+		{"id":"386845c6799139f5","fromNode":"e8ca0953938b8f35","fromSide":"right","toNode":"c1aeaf58645df848","toSide":"left","color":"1"},
+		{"id":"d2f951f3de4359a2","fromNode":"e2250fcbe43fd326","fromSide":"right","toNode":"180673a243a8c7ac","toSide":"left","color":"#c800c8"},
+		{"id":"2690b1972788c377","fromNode":"e2250fcbe43fd326","fromSide":"right","toNode":"15c94a8aebc3b6e4","toSide":"left","color":"#c800c8"},
+		{"id":"3f106c281edd0514","fromNode":"e2250fcbe43fd326","fromSide":"right","toNode":"5863796f613a1781","toSide":"left","color":"#c800c8"}
+	]
+}

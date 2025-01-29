@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f12fc9914e33f21a","type":"file","file":"📅/2024/4Q/12 December/52/2024-12-24/2024-12-24.md","x":-1680,"y":-390,"width":900,"height":1140},
+		{"id":"a3c1a0bfee3805d6","type":"file","file":"📁/💻/🌐/1735028480831.md","x":320,"y":-20,"width":400,"height":400},
+		{"id":"df3d5515f4305b0d","type":"file","file":"📁/⚖️/💼/🟦/1734514855490/1735028591950.md","x":-540,"y":-240,"width":620,"height":840}
+	],
+	"edges":[
+		{"id":"4804eac70fb221e0","fromNode":"df3d5515f4305b0d","fromSide":"right","toNode":"a3c1a0bfee3805d6","toSide":"left"},
+		{"id":"3f5615e9692a3f62","fromNode":"f12fc9914e33f21a","fromSide":"right","toNode":"df3d5515f4305b0d","toSide":"left"}
+	]
+}

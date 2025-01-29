@@ -1,0 +1,21 @@
+{
+  "split": "tab: ",
+  "defaultTabNavItem": "1",
+  "defaultTabContent": "- [ ] elaborate",
+  "actionButtonType": "action-none",
+  "ignoreNotice": false,
+  "autorefreshMarkdownView": true,
+  "dragAndDrop": true,
+  "doubleClickToEdit": true,
+  "showToolbar": false,
+  "tabSize": 4,
+  "editorAutoSaveInterval": 5000,
+  "defaultTabsBorder": "border-hover",
+  "defaultTabsBorderColor": "#3ac6ef",
+  "hideTabsEditBlockButton": true,
+  "defaultTitleLineClamp": "one",
+  "defaultTitlePosition": "top",
+  "defaultTitleLimited": false,
+  "defaultTabsContentsPadding": "1em 2em",
+  "defaultTabsContentsMaxHeight": "none"
+}

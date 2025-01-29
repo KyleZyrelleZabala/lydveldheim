@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e495183bf2f6dc0d","type":"text","text":"# #🌐 Web App Deployment\n\n- save notebook as `.ipynb`\n- push to github repository\n- import repo link to Colab","x":-125,"y":320,"width":445,"height":200},
+		{"id":"bfb290dcb71f7aa0","type":"text","text":"# #⚙️ Discord Mass Deletion\n- TamperMonkey\n\t- Undiscord\n- Redact\n- AutoHotKey\n- BetterDiscord","x":-95,"y":-40,"width":385,"height":220},
+		{"id":"2df0432c4578c866","type":"file","file":"📁/⚖️/💼/⚪/1734687206691/1734687206691.md","x":440,"y":20,"width":580,"height":460},
+		{"id":"180a83654b0c68e5","x":530,"y":-500,"width":400,"height":400,"type":"file","file":"📁/💻/⚙️/1737888049262/1737888049262.md"},
+		{"id":"f9541ee79db9c201","x":40,"y":-500,"width":400,"height":400,"type":"file","file":"📁/🧠/🏁/1737876697308/1737876697308.md"}
+	],
+	"edges":[
+		{"id":"67bfaace990a1f5a","fromNode":"f9541ee79db9c201","fromSide":"right","toNode":"180a83654b0c68e5","toSide":"left"}
+	]
+}

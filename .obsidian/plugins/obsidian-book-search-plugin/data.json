@@ -1,0 +1,19 @@
+{
+  "folder": "",
+  "fileNameFormat": "NEW BOOK",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "📄/💻/🖼️/📖/📖.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "coverImagePath": "",
+  "askForLocale": false
+}

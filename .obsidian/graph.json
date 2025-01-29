@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:📄  ",
+      "color": {
+        "a": 1,
+        "rgb": 1973790
+      }
+    },
+    {
+      "query": "path: 📁/⚖️/💼 ",
+      "color": {
+        "a": 1,
+        "rgb": 8014394
+      }
+    },
+    {
+      "query": "path:📁/⚖️/👤  ",
+      "color": {
+        "a": 1,
+        "rgb": 4664663
+      }
+    },
+    {
+      "query": "path:📅  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:📚  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:🧠  ",
+      "color": {
+        "a": 1,
+        "rgb": 14113959
+      }
+    },
+    {
+      "query": "[\"📁\":🏷️]",
+      "color": {
+        "a": 1,
+        "rgb": 16747570
+      }
+    },
+    {
+      "query": "path:📁/⚖️/📍/🗺️  ",
+      "color": {
+        "a": 1,
+        "rgb": 3719145
+      }
+    },
+    {
+      "query": "tag:💱  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.8609375,
+  "lineSizeMultiplier": 0.610416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.6995841995842,
+  "linkDistance": 30,
+  "scale": 0.010952991388875809,
+  "close": true
+}

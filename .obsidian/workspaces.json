@@ -1,0 +1,315 @@
+{
+  "workspaces": {
+    "Layout": {
+      "main": {
+        "id": "891731ed1ba7086b",
+        "type": "split",
+        "children": [
+          {
+            "id": "8e5124556d1a022e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f4f9ec3030db077",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1734008593604.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1734008593604"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "24a239a0a20ad3e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f3f9cea0c9bc09c",
+            "type": "tabs",
+            "dimension": 60.72351421188631,
+            "children": [
+              {
+                "id": "8917ccdfb1d72884",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "1f8222aece32335b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#2024/12",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "63071d75790c90aa",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "2703fe95d6a5f089",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9c8b5ce2ae5bbedd",
+            "type": "tabs",
+            "dimension": 39.276485788113696,
+            "children": [
+              {
+                "id": "9da6d5e8af211945",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "9c68ae89b41df4bc",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "8090de70f5506593",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {},
+                  "icon": "trident-custom",
+                  "title": "Mermaid Toolbar"
+                }
+              },
+              {
+                "id": "d99f2691197d77a1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "1733413957229.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 1733413957229"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "daa90deda5bd920a",
+        "type": "split",
+        "children": [
+          {
+            "id": "88478c9b7f4a03e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "765e90f2b0dc23d5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1734008593604.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 1734008593604"
+                }
+              },
+              {
+                "id": "5305aa44cc0adce1",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "ea81ff6e44a357b3",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "03cff5e3e4774cb5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4564ec6d0612cf21",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🛠️/💼/⚪/1732675953056.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 1732675953056"
+                }
+              },
+              {
+                "id": "8cd69172ab148437",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Chronology"
+                }
+              },
+              {
+                "id": "33b7e56dc23e9217",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1733227590416.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 1733227590416"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 254.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "chronology:Open Chronology": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "callout-manager:Insert Callout": false
+        }
+      },
+      "floating": {
+        "id": "f4a7401aeae63faf",
+        "type": "floating",
+        "children": [
+          {
+            "id": "03703e8d91df83d2",
+            "type": "window",
+            "children": [
+              {
+                "id": "2c60c02b4413ae49",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d3a7b9ef622a3c4a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1733908184564.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1733908184564"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 414,
+            "y": 20,
+            "width": 707,
+            "height": 776,
+            "maximize": true,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "9f4f9ec3030db077",
+      "mtime": "2024-12-12T21:46:12+08:00"
+    }
+  },
+  "active": "Layout"
+}

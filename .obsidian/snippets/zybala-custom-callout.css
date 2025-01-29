@@ -1,0 +1,52 @@
+.callout[data-callout="r"] {
+    --callout-color: 251, 70, 76;
+    --callout-icon: lucide-shield-alert;
+}
+.callout[data-callout="qq"] {
+    --callout-color: 233, 151, 63;
+    --callout-icon: question-mark-glyph;
+}
+.callout[data-callout="e"] {
+    --callout-color: 208, 181, 30;
+    --callout-icon: lucide-lightbulb;
+}
+.callout[data-callout="f"] {
+    --callout-color: 68, 207, 110;
+    --callout-icon: lucide-banknote;
+}
+.callout[data-callout="a"] {
+    --callout-color: 58, 198, 239;
+    --callout-icon: lucide-menu;
+}
+.callout[data-callout="rr"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-layers-3;
+}
+.callout[data-callout="x"] {
+    --callout-color: 168, 130, 255;
+    --callout-icon: lucide-blocks;
+}
+.callout[data-callout="q"] {
+    --callout-color: 166, 189, 197;
+    --callout-icon: lucide-quote;
+}
+.callout[data-callout="w"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-arrow-up-left-square;
+}
+.callout[data-callout="ww"] {
+    --callout-color: 0, 91, 209;
+    --callout-icon: lucide-square-kanban;
+}
+.callout[data-callout="wer"] {
+    --callout-color: 227, 107, 167;
+    --callout-icon: lucide-waypoints;
+}
+.callout[data-callout="www"] {
+    --callout-color: 67, 199, 124;
+    --callout-icon: lucide-map-pin;
+}
+.callout[data-callout="xx"] {
+    --callout-color: 200, 0, 255;
+    --callout-icon: lucide-calendar-days;
+}

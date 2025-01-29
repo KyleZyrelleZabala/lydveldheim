@@ -1,0 +1,67 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&",
+    "icon": "lucide-lightbulb"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?",
+    "icon": "question-mark-glyph"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "H",
+    "icon": "lucide-layout-dashboard"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "=",
+    "icon": "lucide-menu"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$",
+    "icon": "lucide-banknote"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "\"",
+    "icon": "lucide-quote"
+  },
+  {
+    "char": "<",
+    "color": "207, 107, 167",
+    "custom": true,
+    "icon": "lucide-share-2"
+  },
+  {
+    "char": "w",
+    "color": "67, 199, 124",
+    "icon": "lucide-map-pin",
+    "custom": true
+  },
+  {
+    "char": "x",
+    "color": "200, 0, 255",
+    "icon": "lucide-calendar-days",
+    "custom": true
+  },
+  {
+    "char": "a",
+    "color": "0, 0, 0",
+    "icon": "lucide-layers",
+    "custom": true
+  },
+  {
+    "char": "r",
+    "color": "255, 255, 255",
+    "icon": "lucide-arrow-up-left-from-circle",
+    "custom": true
+  }
+]

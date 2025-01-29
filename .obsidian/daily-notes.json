@@ -1,0 +1,6 @@
+{
+  "folder": "📅",
+  "template": "📄/📅/📅",
+  "autorun": true,
+  "format": "YYYY/Q\\Q/MM\\ MMMM/WW/Y-MM-DD/Y-MM-DD"
+}

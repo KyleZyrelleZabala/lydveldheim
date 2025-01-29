@@ -1,0 +1,23 @@
+{
+  "highlighterStyle": "text-color",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "r": "#ec2727ff",
+    "g": "#20d31dff",
+    "p": "#be099dff",
+    "b": "#1e70c2ff",
+    "o": "#f88f16ff",
+    "y": "#989b0dff"
+  },
+  "highlighterOrder": [
+    "r",
+    "o",
+    "y",
+    "g",
+    "b",
+    "p"
+  ],
+  "menuMode": "normal",
+  "cleanSelectors": [],
+  "overwriteMarks": true
+}

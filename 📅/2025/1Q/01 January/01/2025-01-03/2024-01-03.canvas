@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"39daf25274f86b4c","type":"file","file":"📅/2024/4Q/12 December/53/2024-12-30/2024-12-30.md","x":-360,"y":-450,"width":720,"height":900},
+		{"id":"f3994cbdd76115b7","type":"link","url":"https://propertymonitor.ae/v2/new-home.php","x":460,"y":-450,"width":473,"height":900},
+		{"id":"57fda2de482498f9","type":"file","file":"📁/💻/⚙️/🔐/💱/💱.canvas","x":-1240,"y":-130,"width":800,"height":260},
+		{"id":"687cd55a6a49d673","x":-360,"y":-1180,"width":720,"height":660,"type":"file","file":"📁/⚖️/📍/📍.md"},
+		{"id":"23e8558cf2b433d9","x":-960,"y":-1240,"width":520,"height":780,"type":"file","file":"📁/🧠/🏁/🏷️/📁/⚖️/📍/📍.md"},
+		{"id":"d36ec65730a2851b","x":-1500,"y":-1150,"width":460,"height":600,"type":"file","file":"📁/💻/🖼️/🔢/🎛️/📍/1735902413683.md"},
+		{"id":"0c4f754728413841","x":-200,"y":540,"width":400,"height":400,"type":"file","file":"📁/💻/🎲/1735907538631.md"}
+	],
+	"edges":[
+		{"id":"409a0ff0b18104ea","fromNode":"39daf25274f86b4c","fromSide":"right","toNode":"f3994cbdd76115b7","toSide":"left"},
+		{"id":"e5133ed5e1cd3640","fromNode":"39daf25274f86b4c","fromSide":"left","toNode":"57fda2de482498f9","toSide":"right"},
+		{"id":"18309216fbeaf37b","fromNode":"39daf25274f86b4c","fromSide":"top","toNode":"687cd55a6a49d673","toSide":"bottom"},
+		{"id":"a938d1ce5da29de7","fromNode":"687cd55a6a49d673","fromSide":"left","toNode":"23e8558cf2b433d9","toSide":"right"},
+		{"id":"0574a79a80d4cbc0","fromNode":"23e8558cf2b433d9","fromSide":"left","toNode":"d36ec65730a2851b","toSide":"right"},
+		{"id":"8d8c73cf8d70e617","fromNode":"39daf25274f86b4c","fromSide":"bottom","toNode":"0c4f754728413841","toSide":"top"}
+	]
+}

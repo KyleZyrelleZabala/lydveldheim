@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"354844200bdae71c","type":"file","file":"📁/⚖️/💼/🟦/1734517240903/1734418246504/1734418246504.md","x":360,"y":-20,"width":720,"height":540},
+		{"id":"2659756a79673c53","type":"link","url":"https://chat.deepseek.com/","x":-120,"y":-100,"width":400,"height":700},
+		{"id":"764960a0e0e0d37f","type":"file","file":"📅/2024/4Q/12 December/53/2024-12-30/2024-12-30.md","x":360,"y":-1000,"width":720,"height":900}
+	],
+	"edges":[
+		{"id":"f93ebb2e4eeed72d","fromNode":"354844200bdae71c","fromSide":"left","toNode":"2659756a79673c53","toSide":"right"},
+		{"id":"5bb87133e926468e","fromNode":"764960a0e0e0d37f","fromSide":"bottom","toNode":"354844200bdae71c","toSide":"top"}
+	]
+}

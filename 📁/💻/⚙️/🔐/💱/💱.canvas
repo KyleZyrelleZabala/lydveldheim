@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"69f2638d1dbbbc1e","type":"text","text":"```dataview\nTABLE\n\tfile.aliases[0] as \"Banking Data\",\n\t✳️,\n\t📍,\n\t✅,\n\t🏷️,\n\t🗺️,\n\t🏁,\n\t🔤,\n\t🔀,\n\t📚,\n\t💿,\n\t⭕,\n\t🛡️,\n\t📦,\n\t➕,\n\t⚖️,\n\t📝,\n\t🔐,\n\t👤,\n\t🔢,\n\t📅,\n\t⚙️,\n\t🌐,\n\t💱\nFROM \"📁/💻/⚙️/🔐/💱\"\nSORT file,aliases[0] ASC\nFLATTEN ✳️\nFLATTEN 📍\nFLATTEN ✅\nFLATTEN 🏷️\nFLATTEN 🗺️\nFLATTEN 🏁\nFLATTEN 🔤\nFLATTEN 🔀\nFLATTEN 📚\nFLATTEN 💿\nFLATTEN ⭕\nFLATTEN 🛡️\nFLATTEN 📦\nFLATTEN ➕\nFLATTEN ⚖️\nFLATTEN 📝\nFLATTEN 🔐\nFLATTEN 👤\nFLATTEN 🔢\nFLATTEN 📅\nFLATTEN ⚙️\nFLATTEN 🌐\nFLATTEN 💱\n```\n\n","x":-400,"y":-300,"width":2600,"height":500}
+	],
+	"edges":[]
+}
