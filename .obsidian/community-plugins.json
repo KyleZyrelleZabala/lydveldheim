@@ -26,5 +26,6 @@
   "obsidian-columns",
   "painter",
   "vscode-editor",
-  "obsidian-git"
+  "obsidian-git",
+  "prompt"
 ]

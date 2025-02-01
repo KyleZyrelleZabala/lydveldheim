@@ -2,63 +2,102 @@
   "workspaces": {
     "Layout": {
       "main": {
-        "id": "891731ed1ba7086b",
+        "id": "45cb135ab474fd13",
         "type": "split",
         "children": [
           {
-            "id": "8e5124556d1a022e",
+            "id": "63b3d1bac3c8c5f7",
             "type": "tabs",
             "children": [
               {
-                "id": "9f4f9ec3030db077",
+                "id": "10be45216ddb9216",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 83,
+                      "zoom": 0
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "2025-02-01"
+                }
+              },
+              {
+                "id": "31073d3e0a205502",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1734008593604.md",
+                    "file": "📁/💻/🌐/1734886106423.md",
                     "mode": "source",
-                    "backlinks": false,
-                    "source": false
+                    "source": false,
+                    "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "1734008593604"
+                  "title": "1734886106423"
                 }
               }
-            ],
-            "stacked": true
+            ]
+          },
+          {
+            "id": "f36b7385ab299266",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02f7c885b67f78ae",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Credential Matrix.canvas",
+                    "viewState": {
+                      "x": -4049.309886366376,
+                      "y": -252.16809479300176,
+                      "zoom": 0.1867049973288934
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Credential Matrix"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
       },
       "left": {
-        "id": "24a239a0a20ad3e1",
+        "id": "e2401b560b4a9af6",
         "type": "split",
         "children": [
           {
-            "id": "4f3f9cea0c9bc09c",
+            "id": "d4b7879e0a83ac14",
             "type": "tabs",
-            "dimension": 60.72351421188631,
             "children": [
               {
-                "id": "8917ccdfb1d72884",
+                "id": "ef80a9e8ff9ce784",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
                 }
               },
               {
-                "id": "1f8222aece32335b",
+                "id": "01e82da96b8b3968",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#2024/12",
-                    "matchingCase": false,
+                    "query": "date format",
+                    "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
                     "extraContext": false,
@@ -69,7 +108,7 @@
                 }
               },
               {
-                "id": "63071d75790c90aa",
+                "id": "39859bbfddead119",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -79,7 +118,7 @@
                 }
               },
               {
-                "id": "2703fe95d6a5f089",
+                "id": "37232dca01c1a6b3",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -95,25 +134,24 @@
             ]
           },
           {
-            "id": "9c8b5ce2ae5bbedd",
+            "id": "199c4e1e93702660",
             "type": "tabs",
-            "dimension": 39.276485788113696,
             "children": [
               {
-                "id": "9da6d5e8af211945",
+                "id": "872d2c142f6d97b3",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
                   "state": {
-                    "sortOrder": "alphabetical",
-                    "useHierarchy": false
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
                   },
                   "icon": "lucide-tags",
                   "title": "Tags"
                 }
               },
               {
-                "id": "9c68ae89b41df4bc",
+                "id": "3086cd4ec1b59644",
                 "type": "leaf",
                 "state": {
                   "type": "advanced-tables-toolbar",
@@ -123,7 +161,7 @@
                 }
               },
               {
-                "id": "8090de70f5506593",
+                "id": "c27eca1a9f7c3f1a",
                 "type": "leaf",
                 "state": {
                   "type": "mermaid-toolbar-view",
@@ -133,15 +171,13 @@
                 }
               },
               {
-                "id": "d99f2691197d77a1",
+                "id": "a8bbacfde5ef8809",
                 "type": "leaf",
                 "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "1733413957229.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "File properties for 1733413957229"
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
                 }
               }
             ],
@@ -149,37 +185,33 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 238.5,
+        "collapsed": true
       },
       "right": {
-        "id": "daa90deda5bd920a",
+        "id": "5a88fe7245ff15e2",
         "type": "split",
         "children": [
           {
-            "id": "88478c9b7f4a03e4",
+            "id": "346060b0f7420966",
             "type": "tabs",
             "children": [
               {
-                "id": "765e90f2b0dc23d5",
+                "id": "2c3a065523948221",
                 "type": "leaf",
                 "state": {
-                  "type": "backlink",
+                  "type": "outgoing-link",
                   "state": {
-                    "file": "1734008593604.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "file": "Credential Matrix.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
                   },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for 1734008593604"
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Credential Matrix"
                 }
               },
               {
-                "id": "5305aa44cc0adce1",
+                "id": "3d0e38f2330ac7e6",
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
@@ -189,7 +221,7 @@
                 }
               },
               {
-                "id": "ea81ff6e44a357b3",
+                "id": "7be9518c9946c7a4",
                 "type": "leaf",
                 "state": {
                   "type": "todo",
@@ -198,29 +230,33 @@
                   "title": "Todo List"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
-            "id": "03cff5e3e4774cb5",
+            "id": "3e8124d1ec4e3705",
             "type": "tabs",
             "children": [
               {
-                "id": "4564ec6d0612cf21",
+                "id": "4bb297bb2cdc7ba0",
                 "type": "leaf",
                 "state": {
-                  "type": "outgoing-link",
+                  "type": "backlink",
                   "state": {
-                    "file": "🛠️/💼/⚪/1732675953056.md",
-                    "linksCollapsed": false,
+                    "file": "Credential Matrix.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from 1732675953056"
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Credential Matrix"
                 }
               },
               {
-                "id": "8cd69172ab148437",
+                "id": "4e2b80edf923d4a4",
                 "type": "leaf",
                 "state": {
                   "type": "chronology-calendar-view",
@@ -230,24 +266,25 @@
                 }
               },
               {
-                "id": "33b7e56dc23e9217",
+                "id": "9a242d38fba0005e",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "1733227590416.md"
+                    "file": "Credential Matrix.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 1733227590416"
+                  "title": "Outline of Credential Matrix"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 254.5,
-        "collapsed": true
+        "width": 252.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -257,58 +294,195 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "zk-prefixer:Create new unique note": false,
-          "random-note:Open random note": false,
           "workspaces:Manage workspace layouts": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "switcher:Open quick switcher": false,
+          "obsidian-book-search-plugin:Create new book note": false,
           "chronology:Open Chronology": false,
           "mermaid-tools:Open Mermaid Toolbar": false,
-          "obsidian-projects:Open projects": false,
-          "obsidian-book-search-plugin:Create new book note": false,
-          "callout-manager:Insert Callout": false
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "callout-manager:Insert Callout": false,
+          "vscode-editor:Create Code File": false,
+          "obsidian-git:Open Git source control": false
         }
       },
       "floating": {
-        "id": "f4a7401aeae63faf",
+        "id": "d6a9b4da884b990b",
         "type": "floating",
         "children": [
           {
-            "id": "03703e8d91df83d2",
+            "id": "93602cf8a198415f",
             "type": "window",
             "children": [
               {
-                "id": "2c60c02b4413ae49",
+                "id": "96d982ea3820b285",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "d3a7b9ef622a3c4a",
+                    "id": "d468e458e0c492e5",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "localgraph",
                       "state": {
-                        "file": "1733908184564.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
+                        "file": "Credential Matrix.canvas",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 2,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": true,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:📄  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 1973790
+                              }
+                            },
+                            {
+                              "query": "path: 📁/⚖️/💼 ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 8014394
+                              }
+                            },
+                            {
+                              "query": "path:📁/⚖️/👤  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 4664663
+                              }
+                            },
+                            {
+                              "query": "path:📅 ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16776960
+                              }
+                            },
+                            {
+                              "query": "tag:📚  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            },
+                            {
+                              "query": "tag:🧠  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14113959
+                              }
+                            },
+                            {
+                              "query": "[\"📁\":🏷️]",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16747570
+                              }
+                            },
+                            {
+                              "query": "path:📁/⚖️/📍/🗺️  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 3719145
+                              }
+                            },
+                            {
+                              "query": "tag:💱  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            }
+                          ],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0.4,
+                          "nodeSizeMultiplier": 1.68229166666667,
+                          "lineSizeMultiplier": 0.508333333333333,
+                          "collapse-forces": false,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.4019828977761046,
+                          "close": true
+                        }
                       },
-                      "icon": "lucide-file",
-                      "title": "1733908184564"
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of Credential Matrix"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "881cc9573f314648",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0a8be4afff0365c0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
                     }
                   }
                 ]
               }
             ],
             "direction": "vertical",
-            "x": 414,
-            "y": 20,
-            "width": 707,
-            "height": 776,
+            "x": 1670,
+            "y": 134,
+            "width": 600,
+            "height": 600,
             "maximize": true,
+            "zoom": 0
+          },
+          {
+            "id": "65b6ae5807831abf",
+            "type": "window",
+            "children": [
+              {
+                "id": "b9bba34d40617f6d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c3dacaca9ad2db0e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-02-01"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": -960,
+            "y": -216,
+            "width": 960,
+            "height": 1032,
+            "maximize": false,
             "zoom": 0
           }
         ]
       },
-      "active": "9f4f9ec3030db077",
-      "mtime": "2024-12-12T21:46:12+08:00"
+      "active": "02f7c885b67f78ae",
+      "mtime": "2025-02-01T19:24:53+08:00"
     }
   },
   "active": "Layout"

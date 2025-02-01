@@ -8,5 +8,6 @@
     "zybala-custom-header",
     "zybala-custom-mermaid-label",
     "zybala-custom-table"
-  ]
+  ],
+  "baseFontSize": 16
 }
