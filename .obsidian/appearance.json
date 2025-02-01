@@ -10,11 +10,14 @@
     "zybala-custom-table",
     "zybala-custom-header",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "zybala-custom-mermaid-label",
     "zybala-custom-table"
   ],
   "baseFontSize": 16
 =======
+=======
+>>>>>>> origin/main
     "zybala-custom-mermaid-label"
   ]
 >>>>>>> origin/main

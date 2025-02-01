@@ -4,9 +4,12 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false
 =======
+=======
+>>>>>>> origin/main
   "newFileLocation": "current",
   "newFileFolderPath": "",
   "useMarkdownLinks": false,
@@ -14,5 +17,8 @@
   "readableLineLength": false,
   "propertiesInDocument": "visible",
   "showLineNumber": true
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
 }
