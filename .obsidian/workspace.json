@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7c20eb4ac2a4622",
+        "id": "43d556c68c3a82b8",
         "type": "tabs",
         "children": [
           {
-            "id": "eb90dc53afd4d4bd",
+            "id": "63c59d6e0e8b4cfe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,12 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -463,6 +464,7 @@
   },
   "active": "a8bbacfde5ef8809",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "📁/⚖️/💼/⚪/1734687206691/MAVIS Chart.canvas",
     "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
     "Credential Matrix.canvas",

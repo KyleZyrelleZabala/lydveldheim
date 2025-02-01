@@ -1,13 +1,21 @@
 {
+  "interfaceFontFamily": "Inconsolata",
   "accentColor": "#3ac6ef",
-  "interfaceFontFamily": "Aptos Display",
-  "monospaceFontFamily": "Inconsolata",
+  "cssTheme": "",
   "baseFontSizeAction": true,
+  "baseFontSize": 13,
   "enabledCssSnippets": [
     "zybala-custom-callout",
+    "zybala-custom-headers",
+    "zybala-custom-table",
     "zybala-custom-header",
+<<<<<<< HEAD
     "zybala-custom-mermaid-label",
     "zybala-custom-table"
   ],
   "baseFontSize": 16
+=======
+    "zybala-custom-mermaid-label"
+  ]
+>>>>>>> origin/main
 }

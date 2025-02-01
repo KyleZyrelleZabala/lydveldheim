@@ -1,11 +1,18 @@
 {
-  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "readableLineLength": false,
-  "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
+<<<<<<< HEAD
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false
+=======
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true
+>>>>>>> origin/main
 }
