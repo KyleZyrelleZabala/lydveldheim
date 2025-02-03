@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -15,80 +15,44 @@
       }
     },
     {
-      "query": "path: 📁/⚖️/💼 ",
+      "query": "tag:#🟦  ",
       "color": {
         "a": 1,
-        "rgb": 8014394
+        "rgb": 42733
       }
     },
     {
-      "query": "path:📁/⚖️/👤  ",
+      "query": "path:📁/⚖️/💼/🟦  ",
       "color": {
         "a": 1,
-        "rgb": 4664663
+        "rgb": 42733
       }
     },
     {
-      "query": "path:📅  ",
+      "query": "tag:#⚖️",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 16711680
       }
     },
     {
-      "query": "tag:📚  ",
+      "query": "path:📁/💻/⚙️/🔐  ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "tag:🧠  ",
-      "color": {
-        "a": 1,
-        "rgb": 14113959
-      }
-    },
-    {
-      "query": "[\"📁\":🏷️]",
-      "color": {
-        "a": 1,
-        "rgb": 16747570
-      }
-    },
-    {
-      "query": "path:📁/⚖️/📍/🗺️  ",
-      "color": {
-        "a": 1,
-        "rgb": 3719145
-      }
-    },
-    {
-      "query": "tag:💱  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.68229166666667,
-  "lineSizeMultiplier": 0.610416666666667,
-  "collapse-forces": true,
-  "centerStrength": 0,
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.2109375,
   "repelStrength": 20,
-  "linkStrength": 0.6995841995842,
+  "linkStrength": 1,
   "linkDistance": 30,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "scale": 0.32133638605035925,
+  "scale": 0.03408574896700133,
   "close": false
-=======
-=======
->>>>>>> origin/main
-  "scale": 0.014050704482582816,
-  "close": true
->>>>>>> origin/main
 }

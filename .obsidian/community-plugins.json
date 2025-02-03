@@ -1,39 +1,29 @@
 [
-  "tag-wrangler",
-  "dataview",
   "table-editor-obsidian",
+  "better-word-count",
+  "obsidian-book-search-plugin",
+  "calendar",
+  "callout-manager",
+  "obsidian-checklist-plugin",
   "chronology",
+  "obsidian-cloudinary-uploader",
+  "convert-url-to-iframe",
+  "copy-inline-code",
+  "dataview",
+  "emoji-magic",
+  "folder-notes",
+  "obsidian-git",
+  "obsidian-latex-suite",
   "obsidian-list-callouts",
   "mehrmaid",
   "mermaid-tools",
-  "various-complements",
   "mlir-syntax-highlight",
-  "copy-inline-code",
-  "obsidian-latex-suite",
-  "obsidian-columns",
-  "obsidian-cloudinary-uploader",
-  "better-word-count",
-  "convert-url-to-iframe",
   "nldates-obsidian",
-  "calendar",
+  "obsidian-columns",
   "painter",
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "vscode-editor",
-  "obsidian-git",
-  "prompt"
-=======
-=======
->>>>>>> origin/main
-  "tabs",
-  "obsidian-projects",
-  "obsidian-book-search-plugin",
-  "callout-manager",
-  "emoji-magic",
+  "prompt",
   "obsidian-style-settings",
-  "folder-notes",
-  "obsidian-checklist-plugin",
-  "obsidian-meta-bind-plugin",
-  "obsidian-git"
->>>>>>> origin/main
+  "tabs",
+  "tag-wrangler",
+  "various-complements"
 ]

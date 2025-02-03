@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"98f450cc6a19a1ac","x":-200,"y":-220,"width":400,"height":400,"type":"file","file":"📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md"}
+		{"id":"98f450cc6a19a1ac","type":"file","file":"📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md","x":-200,"y":-220,"width":400,"height":400},
+		{"id":"da9736e019d99974","x":260,"y":-220,"width":400,"height":400,"type":"file","file":"📁/💻/1738304014798.md"}
 	],
 	"edges":[]
 }

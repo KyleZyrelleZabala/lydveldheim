@@ -1,24 +1,11 @@
 {
-  "interfaceFontFamily": "Inconsolata",
-  "accentColor": "#3ac6ef",
-  "cssTheme": "",
-  "baseFontSizeAction": true,
-  "baseFontSize": 13,
+  "accentColor": "#3a8bef",
+  "monospaceFontFamily": "Inconsolata",
+  "interfaceFontFamily": "Aptos Display",
   "enabledCssSnippets": [
     "zybala-custom-callout",
-    "zybala-custom-headers",
-    "zybala-custom-table",
     "zybala-custom-header",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "zybala-custom-mermaid-label",
     "zybala-custom-table"
-  ],
-  "baseFontSize": 16
-=======
-=======
->>>>>>> origin/main
-    "zybala-custom-mermaid-label"
   ]
->>>>>>> origin/main
 }

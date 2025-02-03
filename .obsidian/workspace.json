@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63c59d6e0e8b4cfe",
+            "id": "bf5bdc82bee48680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-02"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -111,7 +106,7 @@
             }
           },
           {
-            "id": "3086cd4ec1b59644",
+            "id": "54db02f10b9c9fb7",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -121,7 +116,7 @@
             }
           },
           {
-            "id": "c27eca1a9f7c3f1a",
+            "id": "155ce628c71065d7",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -131,13 +126,25 @@
             }
           },
           {
-            "id": "a8bbacfde5ef8809",
+            "id": "50d8fe828850047f",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "38f71a98741673b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025-01-29"
             }
           }
         ],
@@ -161,16 +168,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
+                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-02"
+              "title": "Outgoing links from 2025-01-29"
             }
           },
           {
-            "id": "3d0e38f2330ac7e6",
+            "id": "b2ccc9af1cc2abd8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -180,7 +187,7 @@
             }
           },
           {
-            "id": "7be9518c9946c7a4",
+            "id": "f1fd5ea5dcc87bdd",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -189,7 +196,8 @@
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3e8124d1ec4e3705",
@@ -201,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
+                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,11 +219,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-02"
+              "title": "Backlinks for 2025-01-29"
             }
           },
           {
-            "id": "4e2b80edf923d4a4",
+            "id": "ac38585b9a47c135",
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
@@ -230,16 +238,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
+                "file": "📁/💻/1738304014798.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-02"
+              "title": "Outline of 1738304014798"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,26 +264,38 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "chronology:Open Chronology": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false,
-      "vscode-editor:Create Code File": false,
       "obsidian-git:Open Git source control": false,
-      "prompt:Show a random prompt": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "prompt:Show a random prompt": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "63c59d6e0e8b4cfe",
+  "active": "bf5bdc82bee48680",
   "lastOpenFiles": [
+    "📅/2024/3Q/August/31/2024-08-01/2024-08-01.md",
+    "📁/📁.md",
+    "📁/💻/🖼️/🎨/1736212286843/1736212286843.md",
+    "📁/💻/⚙️/1723791519698.md",
+    "README.md",
+    "📅/2025/1Q/02 February/06/2025-02-03/2025-02-03.md",
+    "📄/📅/📅.md",
     "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.md",
     "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
     "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.canvas",
-    "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
+    "📅/2025/1Q/02 February/06/2025-02-03/2025-02-03.canvas",
+    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
+    "📅/2025/1Q/02 February/06/2025-02-03",
+    "📅/2025/1Q/02 February/06",
+    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.canvas",
+    "📅/2025/1Q/01 January/05/2025-01-30/2025-01-30.md",
     "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.md",
-    "📅/2025/1Q/02 February/05/2025-02-02",
-    "README.md",
     "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.canvas",
+    "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
+    "📁/💻/1738304014798.md",
+    "📅/2025/1Q/02 February/05/2025-02-02",
     "conflict-files-obsidian-git.md",
     "📁/⚖️/💼/⚪/1734687206691/MAVIS Chart.canvas",
     "Credential Matrix.canvas",
@@ -290,26 +311,15 @@
     "📁/💻/🖼️/🔢/🎛️/💟/1734865198660.md",
     "📁/🧠/🏁/📝/📝.md",
     "📁/🧠/🏁/🏷️/📁/🧠/🏁/📝.md",
-    "📁/💻/🖼️/🔢/🎛️/📝/1738425214705.md",
     "📁/💻/🖼️/🔢/🎛️/📝",
-    "📁/💻/⚙️/1734685001483.md",
-    "📁/💻/🖼️/🔢/✳️/1734343759730.md",
-    "📁/💻/⚙️/💟/💟.md",
-    "📁/💻/⚙️/1738424367449.md",
-    "📁/🧠/🎓/🟩/1734894194891/1736158460470/1736158460470.md",
-    "📁/💻/⚙️/1723791519698.md",
-    "📁/💻/⚙️/🔐/1738421996374.md",
     "📅/2025/1Q/02 February/05/2025-02-01",
     "📅/2025/1Q/02 February/05",
     "📅/2025/1Q/02 February",
-    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.canvas",
     "📅/2025/1Q/01 January/05/2025-01-31",
     "📁/🧠/⏺️/1736782384990/Lego Orchid Monster.png",
     "📅/2025/1Q/01 January/05/2025-01-28/2025-01-28.canvas",
     "LICENSE",
     "📁/⚖️/📍/1738067194546/1738067194546",
-    "📁/💻/⚙️/1737888049262/OfficeScrubber_13 1.rar",
-    "📁/💻/⚙️/1737888049262/OfficeScrubber_13.rar",
     "📁/⚖️/📍/1738067194546/1738067245429/Bohol.jpg",
     "📁/⚖️/📍/1738065508639/Siargao.jpg",
     "📁/⚖️/📍/1738065369147/Manila.jpg",
