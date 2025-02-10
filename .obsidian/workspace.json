@@ -8,69 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf5bdc82bee48680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅/2025/1Q/02 February/06/2025-02-03/2025-02-03.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-03"
-            }
-          },
-          {
-            "id": "da4d8e3d1e8a06f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁/💻/🎲/1734875543011/1734875586988.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1734875586988"
-            }
-          },
-          {
-            "id": "8e8ca54df21367f4",
+            "id": "babced158ee0ed8f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "📅/2025/1Q/02 February/06/2025-02-04/2025-02-04.canvas",
+                "file": "📅/2025/1Q/02 February/06/2025-02-05/2025-02-05.canvas",
                 "viewState": {
-                  "x": -686.75,
-                  "y": 17.7890625,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 534.2269683299284,
+                  "y": 291.85906494130313,
+                  "zoom": -0.5523645573639651
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2025-02-04"
+              "title": "2025-02-05"
             }
           },
           {
-            "id": "8564b332b9cbb617",
+            "id": "c4167284a5bb7621",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "📁/💻/⚙️/1734685520048/1734685520048.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "📅/2025/1Q/02 February/07/2025-02-10/2025-02-10.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "1734685520048"
+              "icon": "lucide-layout-dashboard",
+              "title": "2025-02-10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kyle@mpd",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +108,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "199c4e1e93702660",
@@ -195,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md"
+                "file": "📅/2025/1Q/02 February/06/2025-02-06/2025-02-06.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-01-29"
+              "title": "File properties for 2025-02-06"
             }
           }
         ],
@@ -206,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 217.5
   },
   "right": {
     "id": "5a88fe7245ff15e2",
@@ -222,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
+                "file": "📅/2025/1Q/02 February/06/2025-02-07/2025-02-07.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-29"
+              "title": "Outgoing links from 2025-02-07"
             }
           },
           {
@@ -263,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
+                "file": "📅/2025/1Q/02 February/06/2025-02-05/2025-02-05.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-29"
+              "title": "Backlinks for 2025-02-05"
             }
           },
           {
@@ -306,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,55 +297,55 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8e8ca54df21367f4",
+  "active": "babced158ee0ed8f",
   "lastOpenFiles": [
-    "📁/💻/🖼️/🔢/1738425473272.md",
-    "📅/2025/1Q/02 February/06/2025-02-04/2025-02-04.canvas",
-    "📁/⚖️/👤/1734625449574/1734625449574.md",
+    "📅/2025/1Q/02 February/07/2025-02-10/2025-02-10.canvas",
+    "📅/2025/1Q/02 February/06/2025-02-05/2025-02-05.canvas",
+    "📅/2025/1Q/02 February/07/2025-02-10/2025-02-10.md",
+    "📅/2025/1Q/02 February/06/2025-02-08/2025-02-08.canvas",
+    "📅/2025/1Q/02 February/07/2025-02-10",
+    "📅/2025/1Q/02 February/07",
+    "📁/💻/🌐/1734420306179.md",
+    "📁/💻/🌐/1735900974392/1735900974392.md",
+    "📅/2025/1Q/02 February/06/2025-02-08/2025-02-08.md",
+    "📅/2025/1Q/02 February/06/2025-02-07/2025-02-07.canvas",
+    "📅/2025/1Q/02 February/06/2025-02-07/2025-02-07.md",
+    "📁/💻/⚙️/1738858074924.md",
+    "📁/💻/🌐/1735900974392/ngrok OAuth.png",
+    "📁/💻/🌐/1735900974392",
+    "📁/🧠/🏁/1737876697308/1737876697308.md",
+    "📁/💻/⌨️/1734886730310/1734886730310.md",
+    "📁/💻/⌨️/1734886730310/1738859778134.md",
+    "📁/💻/⚙️/🔐/1734895258723.md",
+    "📁/💻/🖼️/🔢/📚/1734663882623.md",
+    "📁/💻/⌨️/1734886730310",
+    "1738858074924.md",
+    "📅/2025/1Q/02 February/06/2025-02-06/2025-02-06.canvas",
+    "📅/2025/1Q/02 February/06/2025-02-06/2025-02-06.md",
+    "📅/2025/1Q/02 February/06/2025-02-08",
+    "📁/💻/⚙️/🔐/1736237489729.md",
+    "📅/2025/1Q/02 February/06/2025-02-07",
+    "📁/💻/⚙️/🔐/1736236770673.md",
+    "📅/2025/1Q/01 January/05/2025-01-28/2025-01-28.canvas",
+    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.canvas",
+    "📅/2025/1Q/01 January/05/2025-01-30/2025-01-30.md",
+    "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.canvas",
+    "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.md",
+    "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
+    "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.canvas",
+    "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
     "📁/💻/⚙️/1734685520048/1734685520048.md",
-    "📅/2025/1Q/02 February/06/2025-02-04/2025-02-04.md",
+    "📅/2025/1Q/02 February/06/2025-02-06",
+    "📁/💻/⚙️/1738733168711.md",
+    "📅/2025/1Q/02 February/06/2025-02-05/2025-02-05.md",
     "📅/2025/1Q/02 February/06/2025-02-03/2025-02-03.md",
+    "📁/💻/⚙️/1738424367449.md",
     "📁/💻/🎲/1734875543011/1734875586988.md",
     "📁/💻/⚙️/1734685001483/1734685001483.md",
     "📁/💻/⚙️/1734685001483",
-    "1738642485111.md",
-    "📁/💻/⚙️/🔐/1738421996374.md",
-    "1738642211351.md",
-    "📁/💻/⚙️/🔐/💱/1735883744946.md",
     "📅/2025/1Q/02 February/06/2025-02-04",
-    "📅/2025/1Q/02 February/06/2025-02-03/2025-02-03.canvas",
-    "📅/2025/1Q/01 January/05/2025-01-27/2025-01-27.canvas",
-    "📅/2025/1Q/01 January/05/2025-01-28/2025-01-28.md",
-    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.md",
-    "📅/2025/1Q/01 January/05/2025-01-30/2025-01-30.md",
-    "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.md",
-    "📅/2025/1Q/01 January/04/2025-01-23/2025-01-23.md",
-    "📅/2025/1Q/01 January/04/2025-01-24/2025-01-24.md",
-    "📅/2024/3Q/August/31/2024-08-01/2024-08-01.md",
-    "📁/📁.md",
-    "📁/💻/🖼️/🎨/1736212286843/1736212286843.md",
-    "📁/💻/⚙️/1723791519698.md",
-    "README.md",
-    "📄/📅/📅.md",
-    "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.md",
-    "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.md",
-    "📅/2025/1Q/02 February/05/2025-02-02/2025-02-02.canvas",
     "📅/2025/1Q/02 February/06/2025-02-03",
-    "📅/2025/1Q/02 February/06",
-    "📅/2025/1Q/01 January/05/2025-01-29/2025-01-29.canvas",
-    "📅/2025/1Q/01 January/05/2025-01-31/2025-01-31.canvas",
-    "📅/2025/1Q/02 February/05/2025-02-01/2025-02-01.canvas",
-    "📁/💻/1738304014798.md",
-    "📅/2025/1Q/02 February/05/2025-02-02",
-    "📁/⚖️/💼/⚪/1734687206691/MAVIS Chart.canvas",
-    "Credential Matrix.canvas",
-    "📁/💻/🖼️/🔢/🎛️/📝",
-    "📅/2025/1Q/02 February/05/2025-02-01",
-    "📅/2025/1Q/02 February/05",
-    "📅/2025/1Q/02 February",
-    "📅/2025/1Q/01 January/05/2025-01-31",
     "📁/🧠/⏺️/1736782384990/Lego Orchid Monster.png",
-    "📅/2025/1Q/01 January/05/2025-01-28/2025-01-28.canvas",
     "📁/⚖️/📍/1738067194546/1738067245429/Bohol.jpg",
     "📁/⚖️/📍/1738065508639/Siargao.jpg",
     "📁/⚖️/📍/1738065369147/Manila.jpg",

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a0247ceeaa44dbe2","type":"text","text":"- [ ] check Galyna Galytska demotion\n\t- [ ] create document in Employee Assignment\n- [ ] check Khaled (Back Office TL) %\n- [ ] Request PM about new data for Nov-Jan\n\t- [ ] recompile all data\n\t\t- [ ] upload to DWH","x":-125,"y":0,"width":465,"height":200},
+		{"id":"0f3e52e5ac7478dd","type":"text","text":"- [ ] migrate MAVIS to google colab\n- [ ] continue google analytics ccourse","x":-255,"y":-360,"width":725,"height":160},
+		{"id":"02eb8ec2bced7bf6","type":"text","text":"- [x] SM Baliuwag w/ Lara by 10 am","x":-255,"y":400,"width":725,"height":160},
+		{"id":"1804504866550862","type":"text","text":"- possible anniversary events\n\t- from JP\n\t\t- Graham bar\n\t\t- Valentine's cake\n\t- from any store\n\t\t- corned beef potato\n\t- from FB\n\t\t- pangmalakasan na greeting\n- possible 14 events\n\t- Mimarie\n\t\t- invite the ff\n\t\t\t- college friends\n\t\t\t- lara friends\n\t\t\t- longos friends\n\t\t\t- canoza kupals","x":-880,"y":-175,"width":465,"height":555},
+		{"id":"b3306b6040cb91e9","x":-92,"y":-860,"width":400,"height":400,"type":"file","file":"📁/💻/⌨️/1734886730310/1738859778134.md"},
+		{"id":"8a5ccb1fe3f11ffb","x":-93,"y":-1360,"width":400,"height":400,"type":"file","file":"📁/💻/⚙️/🔐/1734895258723.md"},
+		{"id":"f80747b28d1c05c4","x":-780,"y":-890,"width":580,"height":460,"type":"file","file":"📁/💻/⌨️/1734886730310/1734886730310.md"},
+		{"id":"aaa542f69397985c","x":420,"y":-860,"width":400,"height":400,"type":"file","file":"📁/💻/🌐/1735900974392/1735900974392.md"}
+	],
+	"edges":[
+		{"id":"220cd72ebbf6cdbc","fromNode":"a0247ceeaa44dbe2","fromSide":"top","toNode":"0f3e52e5ac7478dd","toSide":"bottom"},
+		{"id":"fc29433d95148685","fromNode":"a0247ceeaa44dbe2","fromSide":"bottom","toNode":"02eb8ec2bced7bf6","toSide":"top"},
+		{"id":"877b0e50bd800be2","fromNode":"a0247ceeaa44dbe2","fromSide":"left","toNode":"1804504866550862","toSide":"right"},
+		{"id":"2dfb89c513de1685","fromNode":"0f3e52e5ac7478dd","fromSide":"top","toNode":"b3306b6040cb91e9","toSide":"bottom"},
+		{"id":"e4659da2ecfb5531","fromNode":"b3306b6040cb91e9","fromSide":"top","toNode":"8a5ccb1fe3f11ffb","toSide":"bottom"},
+		{"id":"02d49f38f3dcf558","fromNode":"f80747b28d1c05c4","fromSide":"right","toNode":"b3306b6040cb91e9","toSide":"left"},
+		{"id":"0c848321ec1becc8","fromNode":"b3306b6040cb91e9","fromSide":"right","toNode":"aaa542f69397985c","toSide":"left"}
+	]
+}
