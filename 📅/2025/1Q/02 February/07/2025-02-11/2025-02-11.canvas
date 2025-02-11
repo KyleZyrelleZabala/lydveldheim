@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"a07fd4b3f718dd39","type":"text","text":"- [x] Feb targets\n\t- [x] wait for new desirables from Irfan\n\t- [x] confirm with HR if all transfers from terminated team leaders are reflected in subtool\n\t- [x] adjust excel\n\t- [x] adjust word\n- [x] new laptop invoice\n\t- [x] ask for Sharief to set up\n\t\t- [x] wireguard\n\t\t- [x] email\n\t\t- [ ] forticlient\n- [x] performance document automation\n\t- [x] rewrite target values based on file from Dal\n\t- [x] add DealRegParticipant\n\t\t- [x] total commission per agent in performance tab\n\t- [x] add commission in template\n\t- [x] adjust chart size to fit values","x":-360,"y":-240,"width":725,"height":477}
+	],
+	"edges":[]
+}
