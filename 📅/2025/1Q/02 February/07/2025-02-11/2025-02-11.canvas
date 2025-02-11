@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"a07fd4b3f718dd39","type":"text","text":"- [x] Feb targets\n\t- [x] wait for new desirables from Irfan\n\t- [x] confirm with HR if all transfers from terminated team leaders are reflected in subtool\n\t- [x] adjust excel\n\t- [x] adjust word\n- [x] new laptop invoice\n\t- [x] ask for Sharief to set up\n\t\t- [x] wireguard\n\t\t- [x] email\n\t\t- [ ] forticlient\n- [x] performance document automation\n\t- [x] rewrite target values based on file from Dal\n\t- [x] add DealRegParticipant\n\t\t- [x] total commission per agent in performance tab\n\t- [x] add commission in template\n\t- [x] adjust chart size to fit values","x":-360,"y":-240,"width":725,"height":477}
+		{"id":"a07fd4b3f718dd39","type":"text","text":"- [x] Feb targets\n\t- [x] wait for new desirables from Irfan\n\t- [x] confirm with HR if all transfers from terminated team leaders are reflected in subtool\n\t- [x] adjust excel\n\t- [x] adjust word\n- [x] new laptop invoice\n\t- [x] ask for Sharief to set up\n\t\t- [x] wireguard\n\t\t- [x] email\n\t\t- [x] forticlient\n- [x] performance document automation\n\t- [x] rewrite target values based on file from Dal\n\t- [x] add DealRegParticipant\n\t\t- [x] total commission per agent in performance tab\n\t- [x] add commission in template\n\t- [x] adjust chart size to fit values","x":-360,"y":-240,"width":725,"height":477},
+		{"id":"63a31f20fcf25935","type":"file","file":"📁/💻/⚙️/🔐/1735171395681.md","x":-197,"y":320,"width":400,"height":400},
+		{"id":"2adf3468cd00ac8b","type":"file","file":"📁/💻/⚙️/1738424367449/1738424367449.md","x":-197,"y":860,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"da4c9e22fa340c5b","fromNode":"63a31f20fcf25935","fromSide":"bottom","toNode":"2adf3468cd00ac8b","toSide":"top"},
+		{"id":"83587727e31c3772","fromNode":"a07fd4b3f718dd39","fromSide":"bottom","toNode":"63a31f20fcf25935","toSide":"top"}
+	]
 }
