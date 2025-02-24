@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f6de6fb62f2a9aa0","type":"file","file":"📁/⚖️/💼/🟦/🟦.md","x":0,"y":0,"width":880,"height":660},
+		{"id":"e6a097ccfbed97aa","type":"file","file":"📁/💻/1737452512863/1737452512863.md","x":960,"y":130,"width":400,"height":400},
+		{"id":"7494125ae1d45df7","type":"text","text":"new screens features\n- calls\n- meetings\n- listings\n\ndaily basis\n- in screens\n\ntelegram bot\n- PM agreed to have transaction-by-transaction instead of aggregated\n- lots of blanks in sublocations","x":158,"y":760,"width":565,"height":440},
+		{"id":"3e285cd69051dec3","x":1440,"y":130,"width":400,"height":400,"type":"file","file":"📁/💻/⚙️/1734685520048/1734685520048.md"},
+		{"id":"8127d55b4eb4f0cf","x":1920,"y":-45,"width":600,"height":750,"type":"file","file":"📁/💻/⚙️/🔐/1735171395681.md"},
+		{"id":"e9d5c5e9b9f0f76e","x":1890,"y":800,"width":660,"height":440,"type":"file","file":"📁/💻/🖼️/🔢/1738425473272.md"}
+	],
+	"edges":[
+		{"id":"6fff0f487d3b52f9","fromNode":"f6de6fb62f2a9aa0","fromSide":"right","toNode":"e6a097ccfbed97aa","toSide":"left"},
+		{"id":"d1010e2b1684f7ab","fromNode":"f6de6fb62f2a9aa0","fromSide":"bottom","toNode":"7494125ae1d45df7","toSide":"top"},
+		{"id":"e95ce243ae18b843","fromNode":"e6a097ccfbed97aa","fromSide":"right","toNode":"3e285cd69051dec3","toSide":"left"},
+		{"id":"477c9aa54da09e27","fromNode":"3e285cd69051dec3","fromSide":"right","toNode":"8127d55b4eb4f0cf","toSide":"left"},
+		{"id":"6a79383f6bc534d0","fromNode":"8127d55b4eb4f0cf","fromSide":"bottom","toNode":"e9d5c5e9b9f0f76e","toSide":"top"}
+	]
+}

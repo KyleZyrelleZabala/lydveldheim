@@ -1,17 +1,6 @@
 {
 	"nodes":[
-		{"id":"8217410422f23373","type":"text","text":"- [x] Feb targets\n\t- [x] wait for new desirables from Irfan\n\t- [x] confirm with HR if all transfers from terminated team leaders are reflected in subtool\n\t- [x] adjust excel\n\t- [x] adjust word\n- [x] new laptop invoice\n\t- [x] ask for Sharief to set up\n\t\t- [x] wireguard\n\t\t- [x] email\n\t\t- [x] forticlient\n- [x] performance document automation\n\t- [x] rewrite target values based on file from Dal\n\t- [x] add DealRegParticipant\n\t\t- [x] total commission per agent in performance tab\n\t- [x] add commission in template\n\t- [x] adjust chart size to fit values","x":-125,"y":63,"width":725,"height":477},
-		{"id":"d777659085e156c6","type":"file","file":"📁/💻/⚙️/1734685520048/1734685520048.md","x":660,"y":102,"width":520,"height":400},
-		{"id":"47ee798f24fad5c9","type":"file","file":"📁/💻/⚙️/1738733168711.md","x":1240,"y":102,"width":400,"height":400},
-		{"id":"9e6b4bd99835c983","type":"file","file":"📁/💻/⚙️/1738424367449/1738424367449.md","x":1240,"y":600,"width":400,"height":400},
-		{"id":"5489e3017e028e4d","type":"file","file":"📁/💻/⚙️/1734685001483/1734685001483.md","x":1240,"y":-400,"width":400,"height":400},
-		{"id":"3509a69079865721","type":"file","file":"📁/💻/🖼️/🔢/1738425473272.md","x":1720,"y":73,"width":880,"height":458}
+		{"id":"afebac54594657bd","x":0,"y":0,"width":640,"height":1280,"type":"file","file":"📅/2025/1Q/02 February/06/2025-02-05/2025-02-05.md"}
 	],
-	"edges":[
-		{"id":"bd2a95dff174a41b","fromNode":"8217410422f23373","fromSide":"right","toNode":"d777659085e156c6","toSide":"left"},
-		{"id":"e9bcd20604d98e22","fromNode":"d777659085e156c6","fromSide":"right","toNode":"47ee798f24fad5c9","toSide":"left"},
-		{"id":"be4680e6f7abea98","fromNode":"47ee798f24fad5c9","fromSide":"bottom","toNode":"9e6b4bd99835c983","toSide":"top"},
-		{"id":"9ed5aa409894c288","fromNode":"47ee798f24fad5c9","fromSide":"top","toNode":"5489e3017e028e4d","toSide":"bottom"},
-		{"id":"5da64fcef6b17e8e","fromNode":"47ee798f24fad5c9","fromSide":"right","toNode":"3509a69079865721","toSide":"left"}
-	]
+	"edges":[]
 }
