@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"11316ba703f93818","type":"file","file":"📁/🧠/🎓/1731657856731/1738139590772/1738139590772.md","x":-1140,"y":-247,"width":620,"height":3287},
+		{"id":"b921316332e5d462","type":"file","file":"📁/🧠/🎓/1731657856731/1738139590772/1740466829648.md","x":-1140,"y":-2600,"width":620,"height":2247},
+		{"id":"dc230a34d72f1d07","type":"text","text":"- [ ] Link Data Exploration to Data Analytics course\n- [ ] Make Completion Certificate of Course 3\n- [ ] Send Alex Resume to MPP HR\n- [x] Prepare March Proposals\n- [x] Regenerate Performance Documents\n- [ ] ","x":-428,"y":1095,"width":720,"height":604},
+		{"id":"6beaa3caa8edb2d0","type":"file","file":"📁/⚖️/💼/🟦/🟦.md","x":-428,"y":292,"width":720,"height":680},
+		{"id":"69d55cdd5f995019","type":"file","file":"📁/⚖️/💼/⚪/1734687206691/1734687206691.md","x":372,"y":352,"width":800,"height":560},
+		{"id":"89982629813e88b1","type":"file","file":"📁/💻/⚙️/1734685520048/1734685520048.md","x":372,"y":1197,"width":508,"height":400},
+		{"id":"378987ba79d6d30b","type":"file","file":"📁/💻/🖼️/🔢/1738425473272.md","x":960,"y":1126,"width":620,"height":543},
+		{"id":"e4c0995adc25b407","type":"file","file":"📁/💻/⚙️/🔐/1734895258723.md","x":426,"y":1669,"width":400,"height":400},
+		{"id":"6d85dc88453c93c5","x":-1840,"y":1197,"width":560,"height":400,"type":"file","file":"📁/🧠/🎓/1731657856731/1731657856731.md"}
+	],
+	"edges":[
+		{"id":"9c890f2f7df5b80b","fromNode":"6beaa3caa8edb2d0","fromSide":"right","toNode":"69d55cdd5f995019","toSide":"left"},
+		{"id":"98d2e67127fd0e56","fromNode":"11316ba703f93818","fromSide":"top","toNode":"b921316332e5d462","toSide":"bottom"},
+		{"id":"5b9eab142d8042c0","fromNode":"dc230a34d72f1d07","fromSide":"top","toNode":"6beaa3caa8edb2d0","toSide":"bottom"},
+		{"id":"d3b8e1a2db3b949d","fromNode":"dc230a34d72f1d07","fromSide":"left","toNode":"11316ba703f93818","toSide":"right"},
+		{"id":"79ff8126d37d66d2","fromNode":"dc230a34d72f1d07","fromSide":"right","toNode":"89982629813e88b1","toSide":"left"},
+		{"id":"d45981fec9638ee9","fromNode":"89982629813e88b1","fromSide":"right","toNode":"378987ba79d6d30b","toSide":"left"},
+		{"id":"4cb4a461b75b57f5","fromNode":"89982629813e88b1","fromSide":"bottom","toNode":"e4c0995adc25b407","toSide":"top"},
+		{"id":"5fc7b0d647743097","fromNode":"11316ba703f93818","fromSide":"left","toNode":"6d85dc88453c93c5","toSide":"right"}
+	]
+}
