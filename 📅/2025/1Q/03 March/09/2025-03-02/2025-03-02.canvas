@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"60aad50ef3b21ad8","type":"file","file":"📁/🧠/🎓/1731657856731/1740916870225/1740916870225.md","x":1108,"y":665,"width":400,"height":400},
+		{"id":"883e306c55f40f01","type":"file","file":"📁/💻/🎲/1734875543011/1734875543011.md","x":440,"y":665,"width":600,"height":400},
+		{"id":"4463e99d42897897","x":1580,"y":588,"width":800,"height":555,"type":"file","file":"📁/⚖️/💼/⚪/1734687206691/1734687206691.md"},
+		{"id":"b379093ea03a6557","x":2520,"y":569,"width":460,"height":594,"type":"file","file":"📁/💻/🖼️/🔊/1740985364596.md"},
+		{"id":"666aa0ec6d98f4cd","x":1780,"y":1220,"width":400,"height":420,"type":"file","file":"📁/⚖️/💼/🟦/1734515723483/1734685824545/1734895897876.md","subpath":"#📁 Sale Screen Repository"}
+	],
+	"edges":[
+		{"id":"850584f2c629b9b9","fromNode":"4463e99d42897897","fromSide":"bottom","toNode":"666aa0ec6d98f4cd","toSide":"top"}
+	]
+}
