@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b111dbbfc650ef63","type":"file","file":"📅/2025/1Q/03 March/10/2025-03-05/2025-03-05.md","x":-320,"y":-300,"width":520,"height":400},
+		{"id":"1fe39a7c577262ac","type":"file","file":"📁/💻/🎲/1734875543011/1734875543011.md","x":-900,"y":-350,"width":520,"height":500},
+		{"id":"d026761f94d58c9f","type":"text","text":"# #🔢 DWH MPP\n\n> [!r] Credentials\n> request from Mahmoud\n\n|     |     |\n| --- | --- |\n|     |     |\n","x":280,"y":-300,"width":420,"height":400}
+	],
+	"edges":[
+		{"id":"18634630098f9c18","fromNode":"b111dbbfc650ef63","fromSide":"right","toNode":"d026761f94d58c9f","toSide":"left"},
+		{"id":"e732c78e7ba04941","fromNode":"b111dbbfc650ef63","fromSide":"left","toNode":"1fe39a7c577262ac","toSide":"right"}
+	]
+}

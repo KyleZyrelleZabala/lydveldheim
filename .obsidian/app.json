@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true
 }

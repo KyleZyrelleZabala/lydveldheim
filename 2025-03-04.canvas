@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3102419166f6de66","type":"file","file":"📁/💻/🖼️/🔊/1740985364596.md","x":280,"y":-300,"width":460,"height":580},
+		{"id":"94c0247c06aeab1f","type":"file","file":"📁/💻/🖼️/🔊/1741053539051.md","x":800,"y":-300,"width":400,"height":580},
+		{"id":"557d49baf945b566","type":"file","file":"📅/2025/1Q/03 March/10/2025-03-04/2025-03-04.md","x":-200,"y":-210,"width":400,"height":400},
+		{"id":"920ae1d5bfa05f10","x":1300,"y":-210,"width":400,"height":400,"type":"file","file":"📁/💻/🎲/1734875543011/1734875543011.md"}
+	],
+	"edges":[
+		{"id":"bc4aaa19a9322326","fromNode":"3102419166f6de66","fromSide":"right","toNode":"94c0247c06aeab1f","toSide":"left"},
+		{"id":"039e4bf5dbc44e0d","fromNode":"557d49baf945b566","fromSide":"right","toNode":"3102419166f6de66","toSide":"left"}
+	]
+}
