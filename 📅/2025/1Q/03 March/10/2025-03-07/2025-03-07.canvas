@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1ffb7681f2c896df","type":"file","file":"📅/2025/1Q/03 March/10/2025-03-07/2025-03-07.md","x":-300,"y":-260,"width":820,"height":660},
+		{"id":"d470bcaa64270acb","x":-780,"y":-175,"width":400,"height":490,"type":"file","file":"📁/⚖️/💼/🟦/1734515723483/1734685824545/1734895897876.md"}
+	],
+	"edges":[
+		{"id":"b278e4692fd11d3a","fromNode":"1ffb7681f2c896df","fromSide":"left","toNode":"d470bcaa64270acb","toSide":"right"}
+	]
+}
